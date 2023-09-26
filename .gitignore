@@ -8,3 +8,4 @@ miff/
 local.properties
 *.log
 webcfg.properties
+/.vs

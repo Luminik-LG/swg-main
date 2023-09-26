@@ -1,17 +1,17 @@
 [submodule "stationapi"]
 	path = stationapi
-	url = https://github.com/SWG-Source/stationapi.git
+	url = https://github.com/Luminik-LG/stationapi.git
 [submodule "dsrc"]
 	path = dsrc
-	url = https://github.com/SWG-Source/dsrc.git
+	url = https://github.com/Luminik-LG/dsrc.git
 [submodule "src"]
 	path = src
-	url = https://github.com/SWG-Source/src.git
+	url = https://github.com/Luminik-LG/src.git
 [submodule "serverdata"]
 	path = serverdata
-	url = https://github.com/SWG-Source/serverdata.git
+	url = https://github.com/Luminik-LG/serverdata.git
 [submodule "exe"]
 	path = exe
-	url = https://github.com/SWG-Source/configs.git
+	url = https://github.com/Luminik-LG/configs.git
 	ignore = dirty
 
