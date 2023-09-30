@@ -9,3 +9,4 @@ local.properties
 *.log
 webcfg.properties
 /.vs
+.vscode/settings.json
